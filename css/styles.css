@@ -9,6 +9,15 @@
     body {
         background-color: #fff;
     }
+/* header*/
+.page-header {
+    width: 1440px;
+    border: red solid;
+    margin: 0px;
+    padding-top: 25.5px;
+    padding-bottom: 25.5px;
+    background-color: yellow;
+}
     /*list style*/
 .list {
     list-style: none;
@@ -64,4 +73,18 @@ text-transform: capitalize;
     line-height: 1.07;  
     text-align: center;
     letter-spacing: 0.02em;
+}
+
+.hero-blok {
+width: 1440px;
+padding-top: 188px;
+padding-bottom: 188px;
+padding-left: 472px;
+padding-right: 472px;
+margin: 0px;
+background-color: aqua;
+}
+.order-button {
+    padding-left: 636px;
+    padding-right: 636px;
 }
