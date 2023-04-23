@@ -85,6 +85,17 @@ margin: 0px;
 background-color: aqua;
 }
 .order-button {
-    padding-left: 636px;
-    padding-right: 636px;
+    padding-left: 32px;
+    padding-right: 32px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    border: blue;
+    border-radius: 4px;
+    background-color: #4D5AE5;
+    color: #fff;
+    text-decoration: none;
+    margin-top: 48px;
+    margin-left: 636px;
+    margin-right: 636px;
+    margin-bottom: 188px;
 }
