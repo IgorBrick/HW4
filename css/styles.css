@@ -22,6 +22,10 @@
 .list {
     list-style: none;
 }
+.nave {
+    display:flex;
+    align-items: center;
+}
 /*style link*/
 .site-nave .link:hover,
 .site-nave .link:focus {
@@ -40,10 +44,30 @@ color: #4D5AE5;
         text-decoration: none;
         color: #434455;
 }
+.maine-nave {
+    display: flex; 
+    margin-left: 76px;
+}
+.maine-nave .item:last-child {
+    margin-right: 0;
+}
+.maine-nave li {
+    background-color: tomato;
+    margin-right: 40px;
+}
+.site-nave current {
+    margin-left: 76px;
+}
 
 .site-nave a {
     text-decoration: none;
 }
+.auth-nav {
+    display: flex;
+    margin-left: auto;
+    margin-right: 156px;
+}
+
 /* Section style*/
 .section-title {
 font-weight: 600;
