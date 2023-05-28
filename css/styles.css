@@ -67,7 +67,9 @@ color: #4D5AE5;
     margin-left: auto;
     margin-right: 156px;
 }
-
+.auth-nav .link {
+    margin-left: 40px;
+}
 /* Section style*/
 .section-title {
 font-weight: 600;
